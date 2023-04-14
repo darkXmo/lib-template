@@ -1,3 +1,3 @@
-# derivio-cal-lib
+# xmo-lib-template
 
-calculating library for Derivio frontend project
+xmo library for npm package

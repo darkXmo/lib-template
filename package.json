@@ -1,14 +1,14 @@
 {
-  "name": "derivio-cal-lib",
+  "name": "lib-template",
   "version": "0.1.0",
-  "description": "calculating library for the frontend project",
-  "repository": "git@github.com:raindexv/derivio-cal-lib.git",
+  "description": "xmo library for npm package",
+  "repository": "git@github.com:darkXmo/lib-template.git",
   "keywords": [
     "lib"
   ],
-  "homepage": "https://github.com/raindexv/derivio-cal-lib",
+  "homepage": "https://github.com/darkXmo/lib-template",
   "bugs": {
-    "url": "https://github.com/raindexv/derivio-cal-lib/issues"
+    "url": "https://github.com/darkXmo/lib-template/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
